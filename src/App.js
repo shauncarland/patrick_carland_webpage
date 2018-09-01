@@ -15,7 +15,7 @@ class App extends Component {
         </p>
 
         <div className="parent">
-          This is the parent element
+          fuck
             <div className="child">
               this is the child element.
             </div>
